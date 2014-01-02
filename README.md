@@ -1,5 +1,4 @@
 neo
-===
 
 
 neo is a collection of Python scripts crafted for use in High Altitude Ballooning.
@@ -14,7 +13,7 @@ Raspberry Pi available from http://www.raspberrypi.org
 Radio module and GPS available from http://ava.upuaut.net/store
 
 Current Status
-=
+
 NOTE: These scripts are work in progress. Consider them pre-Alpha and not yet fit for purpose.
 Please feel free to use and/or modify as requried.
 
@@ -25,12 +24,12 @@ Transmition string output to screen
 
 
 Connection Diagrams
-=
+
 Coming soon...
 
 
 TODO
-=
+
 Enable flight mode on uBLOX MAX-7
 Setup flight loop, initiate counter and format transmition string
 Setup camera stills/video capture
